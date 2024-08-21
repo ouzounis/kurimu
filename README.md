@@ -51,7 +51,7 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 Hit the [link](https://bcpl-certh.github.io/kurimu/) to start browsing Kurīmu.
 
-# List of pangenome analysis methods with hyperlinks
+# List of pangenome analysis methods <!-- with hyperlinks -->
 
 |A                                             |K|<span style="font-weight:normal">[panX](https://pangenome.org/)</span>|                                                                                      
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |                                                                                       

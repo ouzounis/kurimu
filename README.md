@@ -1,6 +1,6 @@
 # kurimu
-# Kurīmu (meaning “cream” in Japanese) is a highly curated pangenome data collection, with metrics.
-A curated pangenome data collection, with metrics.
+Kurīmu (meaning “cream” in Japanese)
+# A curated pangenome data collection, with metrics.
 
 <!--- Access [here](https://alexanmv.github.io/Kurimu.github.io/) --->
 # Kurīmu クリーム

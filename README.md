@@ -1,6 +1,7 @@
 # kurimu
 Kurīmu (meaning “cream” in Japanese)
 # A curated pangenome data collection, with metrics.
+Microbiol Mol Biol Rev, e00403-25 https://doi.org/10.1128/mmbr.00403-25
 
 <!--- Access [here](https://alexanmv.github.io/Kurimu.github.io/) --->
 # Kurīmu クリーム
